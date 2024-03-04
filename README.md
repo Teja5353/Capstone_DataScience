@@ -48,9 +48,9 @@ Clone the repository to your local machine.
 Follow the steps in the Jupyter notebooks for data analysis, model training, and dashboard creation.
 Refer to the README file for detailed instructions and project documentation.
 ## Contributors
-Teja Niduram
-IBM Skill Network Team.
-License
+__Teja Niduram__ <br />
+__IBM Skill Network Team__.
+### License
 This project is licensed under the IBM License.
 
 Feel free to reach out for collaboration or further information. 🚀
