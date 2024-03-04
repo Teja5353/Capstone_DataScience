@@ -38,11 +38,11 @@ Incorporate the machine learning model's predictions into the dashboards to prov
 
 This repository contains a powerpoint presentation which give an overview about the project.
 ## Repository Structure
-data/: contains raw and processed data files.
-notebooks/: Jupyter notebooks for data analysis, machine learning model development, and exploratory data analysis.
-dashboards/: Files for creating interactive dashboards using visualization tools.
-scripts/: Python scripts for data preprocessing, model training, and other functionalities.
-README.md: Project overview, instructions, and documentation.
+data/: contains raw and processed data files.<br />
+notebooks/: Jupyter notebooks for data analysis, machine learning model development, and exploratory data analysis.<br />
+dashboards/: Files for creating interactive dashboards using visualization tools.<br />
+scripts/: Python scripts for data preprocessing, model training, and other functionalities.<br />
+README.md: Project overview, instructions, and documentation.<br />
 ### Getting Started
 Clone the repository to your local machine.
 Follow the steps in the Jupyter notebooks for data analysis, model training, and dashboard creation.
